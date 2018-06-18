@@ -40,13 +40,13 @@ for (var i = 0; i < cols.length; i++) {
 }
 
 // MOVE PLAYER ONE ACROSS THE MAP
-function movePlayer(multWidth, multHeight){
-  $(".active").append(player);
-  if((row).click > multWidth){
-    alert(1)
-  }
+//function movePlayer(multWidth, multHeight){
+//  $(".active").append(player);
+//  if((row).click > multWidth){
+//    alert(1)
+//  }
   
-}
+//}
 
 // MOVE PLAYER 2 ACROSS THE MAP
 function movePlayer2(){
